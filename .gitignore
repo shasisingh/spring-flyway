@@ -36,3 +36,4 @@ tmp
 *.tmp
 mvnw
 mvnw.cmd
+.mvn
